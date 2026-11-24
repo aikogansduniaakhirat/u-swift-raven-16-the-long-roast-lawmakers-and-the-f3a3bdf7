@@ -1,0 +1,11 @@
+{
+  "name": "u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Writes one satirical sentence about lawmakers who cannot convert a file to PDF",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
